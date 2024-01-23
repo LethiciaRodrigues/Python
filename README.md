@@ -1,2 +1,2 @@
-# Python
- Este repositório contém meus scripts de python
+# Aulas de Python 
+ Este repositório contém meus scripts de Python 
